@@ -5,7 +5,7 @@ import java.util.Date
 import java.sql.Timestamp
 
 /**
-//Settings file
+//adfaSettings file
 **/
 object Global extends GlobalSettings {
 
