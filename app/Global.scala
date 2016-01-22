@@ -4,6 +4,9 @@ import com.typesafe.config.ConfigFactory
 import java.util.Date
 import java.sql.Timestamp
 
+/**
+//Settings file
+**/
 object Global extends GlobalSettings {
 
   override def onStart(app: Application) {
